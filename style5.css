@@ -9,7 +9,7 @@
 	height: 50px;
 	float: left;
 	display: inline;
-	background: url(../images/logotip1.png) no-repeat;
+	background: url(logotip1.png) no-repeat;
 	background-size: 135px 50px;
 }
 
@@ -19,7 +19,7 @@
 	height: 628px;
 	float: left;
 	display: inline;
-	background: url(../images/new2.jpg) no-repeat;
+	background: url(new2.jpg) no-repeat;
 	background-size: 1484px 628px;
 }
 
@@ -145,7 +145,7 @@ nav ul li:hover ul {
 	height: 40px;
 	float: left;
 	display: inline;
-	background: url(../images/strela.png) no-repeat;
+	background: url(strela.png) no-repeat;
 	background-size: 50px 40px;
 	position: fixed;
 }
@@ -217,7 +217,7 @@ nav ul li:hover ul {
 	height: 200px;
 	float: left;
 	display: inline;
-	background: url(../images/new13.png) no-repeat;
+	background: url(new13.png) no-repeat;
 	background-size: 294px 200px;
 }
 
@@ -227,7 +227,7 @@ nav ul li:hover ul {
 	height: 240px;
 	float: left;
 	display: inline;
-	background: url(../images/new14.png) no-repeat;
+	background: url(new14.png) no-repeat;
 	background-size: 294px 240px;
 }
 
@@ -237,7 +237,7 @@ nav ul li:hover ul {
 	height: 200px;
 	float: left;
 	display: inline;
-	background: url(../images/new15.png) no-repeat;
+	background: url(new15.png) no-repeat;
 	background-size: 294px 200px;
 }
 
@@ -247,7 +247,7 @@ nav ul li:hover ul {
 	height: 240px;
 	float: left;
 	display: inline;
-	background: url(../images/new16.png) no-repeat;
+	background: url(new16.png) no-repeat;
 	background-size: 294px 240px;
 }
 
@@ -257,7 +257,7 @@ nav ul li:hover ul {
 	height: 240px;
 	float: left;
 	display: inline;
-	background: url(../images/new17.png) no-repeat;
+	background: url(new17.png) no-repeat;
 	background-size: 294px 240px;
 }
 
@@ -267,7 +267,7 @@ nav ul li:hover ul {
 	height: 200px;
 	float: left;
 	display: inline;
-	background: url(../images/new18.png) no-repeat;
+	background: url(new18.png) no-repeat;
 	background-size: 294px 200px;
 }
 
@@ -277,7 +277,7 @@ nav ul li:hover ul {
 	height: 200px;
 	float: left;
 	display: inline;
-	background: url(../images/new19.png) no-repeat;
+	background: url(new19.png) no-repeat;
 	background-size: 294px 200px;
 }
 
@@ -287,7 +287,7 @@ nav ul li:hover ul {
 	height: 200px;
 	float: left;
 	display: inline;
-	background: url(../images/new20.png) no-repeat;
+	background: url(new20.png) no-repeat;
 	background-size: 294px 200px;
 }
 
@@ -297,6 +297,6 @@ nav ul li:hover ul {
 	height: 200px;
 	float: left;
 	display: inline;
-	background: url(../images/new21.png) no-repeat;
+	background: url(new21.png) no-repeat;
 	background-size: 294px 200px;
 }
