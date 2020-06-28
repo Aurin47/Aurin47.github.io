@@ -9,7 +9,7 @@
 	height: 50px;
 	float: left;
 	display: inline;
-	background: url(../images/logotip1.png) no-repeat;
+	background: url(logotip1.png) no-repeat;
 	background-size: 135px 50px;
 }
 
@@ -19,7 +19,7 @@
 	height: 628px;
 	float: left;
 	display: inline;
-	background: url(../images/new2.jpg) no-repeat;
+	background: url(new2.jpg) no-repeat;
 	background-size: 1484px 628px;
 }
 
@@ -145,7 +145,7 @@ nav ul li:hover ul {
 	height: 40px;
 	float: left;
 	display: inline;
-	background: url(../images/strela.png) no-repeat;
+	background: url(strela.png) no-repeat;
 	background-size: 50px 40px;
 	position: fixed;
 }
@@ -204,7 +204,7 @@ nav ul li:hover ul {
 	height: 290px;
 	float: left;
 	display: inline;
-	background: url(../images/new8.png) no-repeat;
+	background: url(new8.png) no-repeat;
 	background-size: 400px 290px;
 }
 
@@ -226,7 +226,7 @@ nav ul li:hover ul {
 	height: 290px;
 	float: left;
 	display: inline;
-	background: url(../images/new9.png) no-repeat;
+	background: url(new9.png) no-repeat;
 	background-size: 400px 290px;
 }
 
@@ -248,7 +248,7 @@ nav ul li:hover ul {
 	height: 290px;
 	float: left;
 	display: inline;
-	background: url(../images/new10.png) no-repeat;
+	background: url(new10.png) no-repeat;
 	background-size: 400px 290px;
 }
 
@@ -270,7 +270,7 @@ nav ul li:hover ul {
 	height: 290px;
 	float: left;
 	display: inline;
-	background: url(../images/new11.png) no-repeat;
+	background: url(new11.png) no-repeat;
 	background-size: 450px 290px;
 }
 
